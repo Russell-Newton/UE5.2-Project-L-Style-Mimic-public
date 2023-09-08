@@ -25,7 +25,7 @@ via direct lighting:
 
 All of these features are demonstrated by the following image (© Riot Games, Inc. 2023):
 
-![Example Image](https://images.contentstack.io/v3/assets/blt3b1631a60bb9c200/blt357bb0acf248356c/649608d1e64f41305742d247/projectl-masthead-fg.png)
+[![Example Image](https://images.contentstack.io/v3/assets/blt3b1631a60bb9c200/blt357bb0acf248356c/649608d1e64f41305742d247/projectl-masthead-fg.png)](https://project-l.riotgames.com/en-us/)
 
 Note the cel shading, particularly on their skin. Ahri's Orb of Deception acts as a pop light, highlighting her left arm
 and hand with a bright blue. Noticeable on the top of Ahri's hair and Ekko's right arm and leg is a desaturated pop
