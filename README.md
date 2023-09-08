@@ -41,7 +41,7 @@ player's attention on the characters.
 
 The following image is representative of my implementation:
 
-![Result Image](Images/Mario.png)
+[![Result Image](Images/Mario.png)](#)
 
 While the edge highlighting isn't as crisp as Project L's, the most important part of my recreation is how the model
 interacts with lights. The primary light applies a cel shading, and there are two pop lights, a blue directional light
