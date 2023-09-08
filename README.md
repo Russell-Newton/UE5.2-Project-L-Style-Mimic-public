@@ -2,6 +2,13 @@
 
 by Russell Newton
 
+
+> ⚠️ DISCLAIMER: \
+> This respository only contains the README of the real repository so that I can have a public repo to show off to people. \
+> The actual project is located here: https://github.com/Russell-Newton/UE5.2-Project-L-Style-Mimic \
+> In order to view it, you must have access to the Unreal Engine repository. Instructions to get access can be found here: https://www.unrealengine.com/en-US/ue-on-github
+
+
 ## Description and Goals
 
 This is my attempt at mimicking the character shading style in the trailers and gameplay footage for Riot's upcoming
